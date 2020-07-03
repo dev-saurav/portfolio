@@ -1,0 +1,14 @@
+.skillsSection {
+  background: #eeeeee;
+  padding: 40px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.heading {
+  color: #ff6347;
+  font-family: 'Yellowtail', cursive;
+  padding: 20px;
+  font-size: 4rem;
+  text-align: center;
+}

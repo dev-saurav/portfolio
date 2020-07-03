@@ -1,0 +1,20 @@
+.contactSection {
+  background: #eeeeee;
+}
+.heading {
+  color: #ff6347;
+  font-family: 'Yellowtail', cursive;
+  padding: 20px;
+  font-size: 4rem;
+  text-align: center;
+}
+.mainSection {
+  display: flex;
+  justify-content: center;
+}
+.icon {
+  font-size: 3em;
+  margin: 0 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+}

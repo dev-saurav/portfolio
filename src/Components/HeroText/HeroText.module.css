@@ -1,0 +1,8 @@
+.heroText {
+  font-size: 3em;
+  font-weight: 900;
+  color: white;
+  padding: 20px 0px;
+  display: flex;
+  justify-content: center;
+}
