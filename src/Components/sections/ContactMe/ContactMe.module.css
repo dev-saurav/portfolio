@@ -1,8 +1,5 @@
-.contactSection {
-  background: #eeeeee;
-}
 .heading {
-  color: #ff6347;
+  color: white;
   font-family: 'Yellowtail', cursive;
   padding: 20px;
   font-size: 4rem;
@@ -11,6 +8,7 @@
 .mainSection {
   display: flex;
   justify-content: center;
+  color: white;
 }
 .icon {
   font-size: 3em;

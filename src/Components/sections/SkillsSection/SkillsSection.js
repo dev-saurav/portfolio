@@ -1,6 +1,6 @@
 import React from 'react'
 import styles from './SkillsSection.module.css'
-import CardGrid from '../Grid/Grid';
+import CardGrid from '../../Grid/Grid';
 
 
 export const SkillsSection = () => {
@@ -16,9 +16,9 @@ export const SkillsSection = () => {
     ];
     return (
         <div id="skillsSection" className={styles.skillsSection}>
-            <div className={styles.heading}>
+            {/* <div className={styles.heading}>
                 My Skills
-            </div>
+            </div> */}
             <div className={styles.mainSection}>
                 <CardGrid list={skills} className={styles.grid} />
             </div>

@@ -1,0 +1,11 @@
+@media only screen and (max-width: 768px) {
+  .name {
+    display: none;
+  }
+}
+
+.name {
+  font-family: 'Yellowtail', cursive;
+  color: #fe6347;
+  font-size: 3rem;
+}

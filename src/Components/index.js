@@ -1,9 +1,8 @@
-export { ContactMe } from './ContextMe/ContactMe'
-export { HeroText } from './HeroText/HeroText'
-export { HeroImg } from './HeroImg/HeroImg'
-export { MyWorkSection } from './MyWorkSection/MyWorkSection'
-export { NavBar } from './NavBar/NavBar'
-export { SkillsSection } from './SkillsSection/SkillsSection'
-export { About } from './About/About'
+export { ContactMe } from './sections/ContactMe/ContactMe'
+export { HeroText } from './sections/HeroText/HeroText'
+export { HeroImg } from './sections/HeroImg/HeroImg'
+export { MyWorkSection } from './sections/MyWorkSection/MyWorkSection'
+export { NavBar } from './sections/NavBar/NavBar'
+export { SkillsSection } from './sections/SkillsSection/SkillsSection'
 
 
